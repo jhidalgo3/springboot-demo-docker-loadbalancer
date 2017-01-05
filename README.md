@@ -1,6 +1,8 @@
 # Docker Demo Springboot Application
 
-This is a Soringboot demo application used for demonstrating Docker and load balancing.
+[Source Code and Dockerfile](https://github.com/jhidalgo3/springboot-demo-docker-loadbalancer)
+
+This is a Springboot demo application used for demonstrating Docker and load balancing.
 
 Migrate to Springboot from Go project [ehazlett/docker-demo](https://github.com/ehazlett/docker-demo)
 
