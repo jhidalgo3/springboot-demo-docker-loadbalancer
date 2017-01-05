@@ -6,11 +6,11 @@ This is a Springboot demo application used for demonstrating Docker and load bal
 
 Migrate to Springboot from Go project [ehazlett/docker-demo](https://github.com/ehazlett/docker-demo)
 
-## Build
+# Build
 
 `mvn clean package`
 `docker build -t springboot-demo-docker-loadbalancer .`
 
-## Run
+# Run
 
-`docker run -p 8080:8080 --rm pringboot-demo-docker-loadbalancer`
+`docker run -p 8080:8080 --rm springboot-demo-docker-loadbalancer`
